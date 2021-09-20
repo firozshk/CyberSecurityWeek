@@ -1,4 +1,4 @@
-# Microsoft Azure Security Workshop Instructions
+# Microsoft Azure Cyber Security Workshop Instructions
 
 Please follow these intrustions, to complete these challenges.
 
