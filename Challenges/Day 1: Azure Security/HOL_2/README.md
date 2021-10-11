@@ -27,10 +27,9 @@ In this lab, you will complete the following exercise:
 
 In this exercise, you will complete the following tasks:
 
-- Task 1: Use a template to deploy the lab environment. 
-- Task 2: Deploy an Azure firewall.
-- Task 3: Create a default route.
-- Task 4: Configure an application rule.
-- Task 5: Configure a network rule. 
-- Task 6: Configure DNS servers.
-- Task 7: Test the firewall. 
+- Task 1: Deploy an Azure firewall.
+- Task 2: Create a default route.
+- Task 3: Configure an application rule.
+- Task 4: Configure a network rule. 
+- Task 5: Configure DNS servers.
+- Task 6: Test the firewall. 
