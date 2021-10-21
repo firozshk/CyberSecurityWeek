@@ -2,7 +2,7 @@
 # Azure Security Center
 # Challenge
 
-## Lab scenario
+## Lab scenario 
 
 You have been asked to create a proof of concept of Security Center-based environment. Specifically, you want to:
 
