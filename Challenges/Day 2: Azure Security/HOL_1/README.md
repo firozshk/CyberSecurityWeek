@@ -1,7 +1,7 @@
 # Azure Sentinel
 # Challenge
 
-## Lab scenario
+## Lab scenario 
 
 You have been asked to create a proof of concept of Azure Sentinel-based threat detection and response. Specifically, you want to:
 
