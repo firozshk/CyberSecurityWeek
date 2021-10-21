@@ -2,7 +2,7 @@
 # Microsoft Defender Scenarios
 # Challenge
 
-## Lab scenario
+## Lab scenario 
 
 The Microsoft Defender for Endpoint evaluation lab is designed to eliminate the complexities of device and environment configuration so that you can focus on evaluating the capabilities of the platform, running simulations, and seeing the prevention, detection, and remediation features in action.
 
