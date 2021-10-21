@@ -1,7 +1,7 @@
 
 # Azure Firewall
 # Challenge
-
+ 
 ## Lab scenario
 
 You have been asked to install Azure Firewall. This will help your organization control inbound and outbound network access which is an important part of an overall network security plan. Specifically, you would like to create and test the following infrastructure components:
