@@ -1,6 +1,6 @@
 # Azure Sentinel Automation 
 # Challenge
-
+ 
 ## Lab scenario
 
 You have been asked to create a proof of concept of Azure Sentinel Automatio. Specifically, you want to:
