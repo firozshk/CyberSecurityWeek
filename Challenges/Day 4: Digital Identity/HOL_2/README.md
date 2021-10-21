@@ -43,7 +43,7 @@ In this exercise, you will complete the following tasks:
 
 In this exercise, you will complete the following tasks:
 
-- Task 1: Activate a role that does not require approval. 
+- Task 1: Activate a role that does not require approval.  
 - Task 2: Activate a role that requires approval. 
 
 ### Exercise 3 - Create access package with a group and an application as resources. 
