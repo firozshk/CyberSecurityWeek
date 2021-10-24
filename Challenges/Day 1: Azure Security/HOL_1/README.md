@@ -31,14 +31,14 @@ In this exercise, you will complete the following tasks:
 1. Create new Vitual Machine
 - Virtual Machine Name - **Please following naming guidelines**
 - Availability Options - **No** 
-- Image - **Windows 2019 Server **
-- Size - **Standard_DS1_v2 **
-- Disk - **Standard HDD **
-- Virtual Network - **Create New following naming guidelines **
+- Image - **Windows 2019 Server**
+- Size - **Standard_DS1_v2**
+- Disk - **Standard HDD**
+- Virtual Network - **Create New following naming guidelines**
 - Subnet - **Default** 
 - Public IP - **No**
 
-**Please have the remaining setting as deafult **
+**Please have the remaining setting as deafult**
 
 ### Minimum Expected Outcome 
 
