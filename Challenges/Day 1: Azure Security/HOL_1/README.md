@@ -26,8 +26,7 @@ In this exercise, you will complete the following tasks:
 - Task 3: Review the Security Center recommendations
 - Task 4: Implement the Security Center recommendation and enable Just in time VM Access
 
-**Please follow the below instructions. 
-**
+**Please follow the below instructions**
 1. Create new Vitual Machine
 - Virtual Machine Name - **Please following naming guidelines**
 - Availability Options - **No** 
