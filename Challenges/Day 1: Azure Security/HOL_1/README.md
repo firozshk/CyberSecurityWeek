@@ -26,15 +26,22 @@ In this exercise, you will complete the following tasks:
 - Task 3: Review the Security Center recommendations
 - Task 4: Implement the Security Center recommendation and enable Just in time VM Access
 
-Please follow these below instrutions. 
-   1. Create new Vitual Machine
-- Virtual Machine Name - <Username><VM><01>
-- Availability Options - No 
-- Image - Windows 2019 Server 
-- Size - Standard_DS1_v2 
-- Disk - Standard HDD 
-- Virtual Network - Create New with the username 
-- Subnet - Default 
-- Public IP - None
+**Please follow the below instructions. 
+**
+1. Create new Vitual Machine
+- Virtual Machine Name - **Please following naming guidelines**
+- Availability Options - **No** 
+- Image - **Windows 2019 Server **
+- Size - **Standard_DS1_v2 **
+- Disk - **Standard HDD **
+- Virtual Network - **Create New following naming guidelines **
+- Subnet - **Default** 
+- Public IP - **No**
 
 **Please have the remaining setting as deafult **
+
+### Minimum Expected Outcome 
+
+1. VM should be monitored by Azure Defender 
+2. Just in time access should  be enabled on the VM
+3. Vulnerability assessment should be installed
