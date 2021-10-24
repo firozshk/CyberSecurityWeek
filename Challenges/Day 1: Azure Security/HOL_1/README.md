@@ -17,26 +17,24 @@ You have been asked to create a proof of concept of Security Center-based enviro
 
 In this lab, you will complete the following exercise:
 
-- Exercise : Monitoring Virtual Machine with Azure Security Center/Azure Defender 
-
 ### Exercise : Monitoring Virtual Machine with Azure Security Center/Azure Defender
 
 In this exercise, you will complete the following tasks:
 
-- Task 1: Create new Vitual Machine
-- Task 2: Configure Security Center
+- Task 1: Create a Windows Virtual Machine
+- Task 2: Enable Azure Defender on VM
 - Task 3: Review the Security Center recommendations
-- Task 4: Implement the Security Center recommendation to enable Just in time VM Access
+- Task 4: Implement the Security Center recommendation and enable Just in time VM Access
 
 Please follow these below instrutions. 
-    Create new Vitual Machine
-          - Virtual Machine Name - <Username><VM><01>
-          - Availability Options - No 
-          - Image - Windows 2019 Server 
-          - Size - Standard_DS1_v2 
-          - Disk - Standard HDD 
-     Virtual Network - Create New with the username 
-          - Subnet - Default 
-          - Public IP - None
+   1. Create new Vitual Machine
+- Virtual Machine Name - <Username><VM><01>
+- Availability Options - No 
+- Image - Windows 2019 Server 
+- Size - Standard_DS1_v2 
+- Disk - Standard HDD 
+- Virtual Network - Create New with the username 
+- Subnet - Default 
+- Public IP - None
 
-Please have the remaining setting as deafult 
+**Please have the remaining setting as deafult **
