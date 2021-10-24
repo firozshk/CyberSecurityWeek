@@ -1,4 +1,4 @@
-# Azure Sentinel
+## Azure Sentinel
 # Challenge
 
 ## Lab scenario 
