@@ -6,23 +6,37 @@
 
 You have been asked to create a proof of concept of Security Center-based environment. Specifically, you want to:
 
-- Configure Security Center to monitor a virtual machine.
+- Create a VM (Virtual Machine) and onboard to Azure Defender under Azure Security Center.
 - Review Security Center recommendations for the virtual machine.
-- Implement recommendations for guest configuration and Just in time VM access. 
+- Implement recommendations for VM and enable Just in time( JIT) VM access. 
 - Review how the Secure Score can be used to determine progress toward creating a more secure infrastructure.
 
-> For all the resources in this lab, we are using the **East US** region. Verify with your instructor this is the region to use for class. 
+> For all the resources in this lab, please use the **East US** region only.  
 
 ## Lab objectives
 
 In this lab, you will complete the following exercise:
 
-- Exercise 1: Implement Security Center
+- Exercise : Monitoring Virtual Machine with Azure Security Center/Azure Defender 
 
-### Exercise 1: Implement Security Center
+### Exercise : Monitoring Virtual Machine with Azure Security Center/Azure Defender
 
 In this exercise, you will complete the following tasks:
 
-- Task 1: Configure Security Center
-- Task 2: Review the Security Center recommendations
-- Task 3: Implement the Security Center recommendation to enable Just in time VM Access
+- Task 1: Create new Vitual Machine
+- Task 2: Configure Security Center
+- Task 3: Review the Security Center recommendations
+- Task 4: Implement the Security Center recommendation to enable Just in time VM Access
+
+Please follow these below instrutions. 
+    Create new Vitual Machine
+          - Virtual Machine Name - <Username><VM><01>
+          - Availability Options - No 
+          - Image - Windows 2019 Server 
+          - Size - Standard_DS1_v2 
+          - Disk - Standard HDD 
+     Virtual Network - Create New with the username 
+          - Subnet - Default 
+          - Public IP - None
+
+Please have the remaining setting as deafult 
