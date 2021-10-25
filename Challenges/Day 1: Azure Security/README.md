@@ -4,7 +4,7 @@ While deploying the resources please follow the naming guidlines below.
    
 1. Please use respective names as a resource name for the Instructor to easily identity if the challenge was completed successfully. 
  
-   Example names: If an attendees name is `John Doe` where `John` being the First name and `Doe` being the last name.
+   Example names: If an attendee's name is `John Doe` where `John` being the First name and `Doe` being the last name.
 
 - Virtual machine format - `<Firstname-Lastname>-<vm>-<number>`
 
