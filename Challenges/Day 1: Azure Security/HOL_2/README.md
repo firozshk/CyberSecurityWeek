@@ -30,10 +30,10 @@ In this exercise, you will complete the following tasks:
 **Please follow the below instructions**
 1. Please use the same VM created during HOL_1
 2. Create Azure Firewall 
-- Firewall Name - **Please following naming guidelines**
+- Firewall Name - **Please follow naming guidelines**
 - Firewall Tier - **Standard** 
 - Firewall Management - **Firewall Policy to Manage this Firewall**
-- Firewall Policy - **Create New** - **Please following naming guidelines**
+- Firewall Policy - **Create New** - **Please follow naming guidelines**
 - Virtual Network - **Please select the VNet previously created for VM**
 - Subnet - **New Subnet** 
 - Public IP - **Add New**
