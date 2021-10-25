@@ -12,6 +12,7 @@ While deploying the resources please follow the naming guidlines below.
 	    Example - john-doe-law-01
  
 2. Please follow similar guidelines for creating Virtual Networks.`john-doe-Vnet-01` with an address space of `10.0.0.0/24` will be created as an example. Please use only respective Virtual Networks to deploy the resources. 
+	
 
 **Note - Missed to follow these instructions, the challenges won't be considered completed.**
 
