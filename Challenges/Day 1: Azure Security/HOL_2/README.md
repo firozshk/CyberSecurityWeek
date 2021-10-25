@@ -43,5 +43,6 @@ In this exercise, you will complete the following tasks:
 
 ### Minimum Expected Outcome 
 
-1. VM should only access only www.bing.com 
-2. All the access to other websites should be blocked
+1. VM traffic should be via Azure Firewall
+2. VM should only access www.bing.com 
+3. All the access to other websites should be blocked
