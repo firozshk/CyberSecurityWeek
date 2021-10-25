@@ -33,11 +33,11 @@ In this exercise, you will complete the following tasks:
 - Image - **Windows 2019 Server**
 - Size - **Standard_DS1_v2**
 - Disk - **Standard HDD**
-- Virtual Network - **Create New follow naming guidelines**
+- Virtual Network - **Create New and follow naming guidelines**
 - Subnet - **Default** 
 - Public IP - **No**
 
-**Please have the remaining setting as deafult**
+**Please have the remaining settings as deafult**
 
 ### Minimum Expected Outcome 
 
