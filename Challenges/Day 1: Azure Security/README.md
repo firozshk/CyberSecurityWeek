@@ -8,13 +8,13 @@ While deploying the resources please follow the naming guidlines below.
 
 - Virtual machine format - `<Firstname-Lastname>-<vm>-<number>`
 
-**Example - john-doe-vm-01**
+   **Example - john-doe-vm-01**
 
 
 - Log Analytics Workspace format - `<Firstname-Lastname>-<law>-<number>`
 
 
-**Example - john-doe-law-01**
+   **Example - john-doe-law-01**
 
  
 2. Please follow similar guidelines for creating Virtual Networks.`john-doe-Vnet-01` with an address space of `10.0.0.0/24` will be created as an example. Please use only respective Virtual Networks to deploy the resources. 
