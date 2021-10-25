@@ -2,7 +2,7 @@
 
 While deploying the resources please follow the naming guidlines below. 
    
-1. Please use respective username as a resource name for the Instructor to easily identity if the challenge was completed successfully. 
+1. Please use respective names as a resource name for the Instructor to easily identity if the challenge was completed successfully. 
  
    Example names: If an attendees name is `John Doe` where `John` being the First name and `Doe` being the last name.
 
