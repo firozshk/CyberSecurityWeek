@@ -28,12 +28,12 @@ In this exercise, you will complete the following tasks:
 
 **Please follow the below instructions**
 1. Create new Vitual Machine
-- Virtual Machine Name - **Please following naming guidelines**
+- Virtual Machine Name - **Please follow naming guidelines**
 - Availability Options - **No** 
 - Image - **Windows 2019 Server**
 - Size - **Standard_DS1_v2**
 - Disk - **Standard HDD**
-- Virtual Network - **Create New following naming guidelines**
+- Virtual Network - **Create New follow naming guidelines**
 - Subnet - **Default** 
 - Public IP - **No**
 
