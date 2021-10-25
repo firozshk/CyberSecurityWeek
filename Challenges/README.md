@@ -8,7 +8,7 @@ Please follow these intrustions, to complete these challenges.
 2. In the Azure portal, please use the Resource group "Hackathon" to deploy all the resources for completing the challenge. 
 > For all the resources during the HOL, Please use **`East US`** region only.  
 
-###Credentials
+### Credentials
                     
 Username  | Password
 ------------- | -------------
