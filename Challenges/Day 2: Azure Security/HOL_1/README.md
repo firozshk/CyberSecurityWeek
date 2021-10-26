@@ -22,23 +22,21 @@ Task 1: On-board Azure Sentinel
 
 Task 2: Connect Azure Activity to Sentinel
 
-Task 3: Create a rule that uses the Azure Activity data connector. 
+Task 3: Create a custom analytic rule that uses the Azure Activity data connector. 
 
 
 
-- **Task 1:** On-board Azure Sentinel
-
+- Task 1: On-board Azure Sentinel
 Please follow the below instructions to create a new log analytics workspace. 
 
       **DO NOT USE ANY EXISTING LOG ANALYTICS WORKSPACE**
 
-  - Workspace Name - Please follow naming guidelines
+   - Workspace Name - Please follow naming guidelines
 
 
-- **Task 2:** Connect Azure Activity to Sentinel
-
+- Task 2: Connect Azure Activity to Sentinel
 Please follow the below instructions to connect Azure activity via connector 
-  - Please select the subscriton and the respective resource group.
+  - Please select the subscription and the respective resource group.
   - Select the log analytics workspace created during Task 1
 
 ## Naming Guidelines
@@ -54,5 +52,6 @@ Example names: If an attendees name is `John Doe` where `John` being the First n
       * Log Analytics Workspace format - - `<Firstname-Lastname>-<law>-<number>`  
 	    Example - `john-doe-law-01`
  
-Please follow similar guidelines for creating Virtual Networks.`john-doe-Vnet-01` with an address space of `10.0.0.0/24` will be created as an example. Please use only respective Virtual Networks to deploy the resources. 
-
+## Expected Outcome
+1. Azure Activity should be successfully conncted to Azure Sentinel
+2. The custom analytic rule created should return valid output 
