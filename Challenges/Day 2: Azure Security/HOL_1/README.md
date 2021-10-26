@@ -33,10 +33,12 @@ Task 3: Create a custom analytic rule that uses the Azure Activity data connecto
    - Workspace Name - Please follow naming guidelines
 
 
-- Task 2: Connect Azure Activity to Sentinel
-Please follow the below instructions to connect Azure activity via connector 
+- Task 2: Please follow the below instructions to connect Azure activity via connector 
   - Please select the subscription and the respective resource group.
   - Select the log analytics workspace created during Task 1
+
+
+- Task 3: As Azure activity connector would be connected in the backend, create a custom analytic rule in the meantime.
 
 ## Naming Guidelines
 
