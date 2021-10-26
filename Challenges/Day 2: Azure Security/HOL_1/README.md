@@ -26,16 +26,16 @@ Task 3: Create a rule that uses the Azure Activity data connector.
 
 
 
-- Task 1: On-board Azure Sentinel
-- 
+- **Task 1:** On-board Azure Sentinel
+
 Please follow the below instructions to create a new log analytics workspace. 
 
       **DO NOT USE ANY EXISTING LOG ANALYTICS WORKSPACE**
 
-   - Workspace Name - Please follow naming guidelines
+  - Workspace Name - Please follow naming guidelines
 
 
-- Task 2: Connect Azure Activity to Sentinel
+- **Task 2:** Connect Azure Activity to Sentinel
 
 Please follow the below instructions to connect Azure activity via connector 
   - Please select the subscriton and the respective resource group.
