@@ -5,7 +5,8 @@
 
 You have been asked to create a proof of concept of Azure Sentinel-based threat detection and response. Specifically, you want to:
 
-- Start collecting data from Azure Activity.
+- Start collecting data from Azure Activity
+- Create a workbook for Azure Activity 
 - Add built in and custom alerts 
 
 > For all the resources in this lab, we are using the **East US** region. 
@@ -22,7 +23,9 @@ Task 1: On-board Azure Sentinel
 
 Task 2: Connect Azure Activity to Sentinel
 
-Task 3: Create a custom analytic rule that uses the Azure Activity data connector. 
+Task 3: Create a workbook for Azure Activity 
+
+Task 4: Create a custom analytic rule that uses the Azure Activity data connector. 
 
 
 
@@ -33,12 +36,13 @@ Task 3: Create a custom analytic rule that uses the Azure Activity data connecto
    - Workspace Name - Please follow naming guidelines
 
 
-- Task 2: Please follow the below instructions to connect Azure activity via connector 
+- Task 2: Please follow the below instructions to connect Azure activity via connector (approx-15-20mins to see the results)
   - Please select the subscription and the respective resource group.
   - Select the log analytics workspace created during Task 1
 
+- Task 3: Create a workbook for Azure Activity as the Azure activity connector would be connected in the backend.
 
-- Task 3: As Azure activity connector would be connected in the backend, create a custom analytic rule in the meantime.
+- Task 4: Create a custom analytic rule 
 
 ## Naming Guidelines
 
