@@ -26,8 +26,7 @@ Task 3: Create a custom analytic rule that uses the Azure Activity data connecto
 
 
 
-- Task 1: On-board Azure Sentinel
-Please follow the below instructions to create a new log analytics workspace. 
+- Task 1: Please follow the below instructions to create a new log analytics workspace. 
 
       **DO NOT USE ANY EXISTING LOG ANALYTICS WORKSPACE**
 
