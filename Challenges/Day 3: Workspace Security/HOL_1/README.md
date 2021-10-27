@@ -1,40 +1,44 @@
 
-
-# DLP Policies 
+# Microsoft Defender Scenarios
 # Challenge
- 
-## Lab scenario
 
-You have been asked to create a DLP policy and verify, you need to:
+## Lab scenario 
 
-- Creating DLP Policy 
-- Create and Publish sensitivity label 
+You have been asked to create a proof of concept of Microsoft Defender. Specifically, you want to:
+
+- Create Threat policies on Microsoft 365 Security Portal
+- Create Attack surface reduction policy for endpoints on Endpoint Manager Portal
 
 
 ## Lab objectives
 
 In this lab, you will complete the following exercises
 
-### Exercise 1: Creating DLP Policy on Microsoft Compliance portal
+### Exercise 1: Create Threat policies on Microsoft 365 Security Portal
 
 In this exercise, you will complete the following tasks:
 
-Task 1: Create Custom DLP Policy
+Task 1: Create Anti-phishing
 
-Task 2: Locations to apply - Devices & Teams
+Task 2: Create Anti-spam
 
-Task 3: Please select your respsective username under include list
+Task 3: Create Anti-malware
+
+Task 4: Create Safe Attachments
+
+Task 5: Create Safe Links
 
 **NOTE : In this exercise, please just create the policies. Not need to apply them. 
 
 
-### Exercise 2: Create and Publish sensitivity label on Microsoft Compliance portal
+### Exercise 2: Create Attack surface reduction policy for endpoints on Endpoint Manager Portal
 
 In this exercise, you will complete the following tasks:
 
-Task 1: Create custom labels 
+Task 1: Create Attack surface reduction rules
 
-Task 2: Publish the custom created label
+
+**NOTE : In this exercise, please just create the policies. Not need to apply them. 
 
 
 ## Naming Guidelines
@@ -45,8 +49,8 @@ Please use respective username as a resource name for the Instructor to easily i
  
 Example names: If an attendees name is `John Doe` where `John` being the First name and `Doe` being the last name.
 
-      * DLP Policy Name - `<Firstname-Lastname>-<Policyname>`  
-	    Example - `john-doe-DLP01`
-      * Label Name - - `<Firstname-Lastname>-<Labelname>`  
-	    Example - `john-doe-sentivitylabel`
+      * Antiphiling Policy Name - `<Firstname-Lastname>-<Policyname>`  
+	    Example - `john-doe-antiphiling`
+      * Attack surface reduction Policy Name - - `<Firstname-Lastname>-<Policyname>`  
+	    Example - `john-doe-attacksurfacereduction`
  
