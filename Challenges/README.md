@@ -3,8 +3,6 @@
 Please follow the below intrustions, to complete the challenges. 
 
 1. Sign-in to the Azure portal https://portal.azure.com/
-2. For Windows Defender Security Portal - https://security.microsoft.com/
-3. For Endpoint Security Portal - https://endpoint.microsoft.com
 > **NOTE**: Please choose any of the below credentials for logging to the Azure Portal.  
 
 2. In the Azure portal, please use the Resource group "Hackathon" to deploy all the resources for completing the challenge. 
