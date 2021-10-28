@@ -47,12 +47,11 @@ In this exercise, you will complete the following tasks:
 - Task 2: Configure a role to require approval to activate and add an eligible member.
 - Task 3: Give a user permanent assignment to a role. 
 
-### Exercise 4 - Activate PIM roles with and without approval
+### Exercise 4 - Activate PIM roles without approval
 
 In this exercise, you will complete the following tasks:
 
 - Task 1: Activate a role that does not require approval.  
-- Task 2: Activate a role that requires approval. 
 
 
 ## Naming Guidelines
