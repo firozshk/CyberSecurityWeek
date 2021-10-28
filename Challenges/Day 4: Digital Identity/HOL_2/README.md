@@ -17,8 +17,8 @@ In this lab, you will complete the following exercises:
 In this exercise, you will complete the following tasks 
 
 - Task 1: View Azure AD Identity Protection options in the Azure portal
-- Task 2: Configure a user risk policy **Please don't select block policy** 
-- Task 3: Configure a sign-in risk policy **Please don't select block policy** 
+- Task 2: Configure a user risk policy **(Please don't select block policy)** 
+- Task 3: Configure a sign-in risk policy **(Please don't select block policy)** 
 - Task 4: Review the Azure AD Identity Protection reports
 
 ## Naming Guidelines
