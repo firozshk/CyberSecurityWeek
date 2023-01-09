@@ -11,12 +11,8 @@ Contoso is a global manufacturing organization with more than 100,000 products i
 
 In this challenge, you will complete the following:
 
-### Exercise : Please sure the application is accessisbnle rom limited IP's and deny all the other IP's using WAF. 
+### Exercise : Please make sure the application is accessible from limited IP's and deny all the other IP's using WAF. 
 
-Please use the below Github credentials to deploy the App on Azure.
-
-U/N : srinivas@jumpstartninja.ai
-P/W : Gitninja@123!
 
 **Please follow the below instructions**
 1. Create new App Service in Azure 
@@ -25,7 +21,13 @@ P/W : Gitninja@123!
 - Region - **East US**
 - Zone redundancy - **Disabled**
 
-Once the App service is deployed, under 'Deployment Center' please select the source 'Github' and use the above mentioned credentials and use the default repo and branch. 
+Once the App service is deployed, under 'Deployment Center' please select the source 'Github' and use the below mentioned credentials and use the default repo and branch. 
+
+Please use the below Github credentials to deploy the App on Azure.
+
+U/N : srinivas@jumpstartninja.ai
+P/W : Gitninja@123!
+
 
 **Please have the remaining settings as default**
 
