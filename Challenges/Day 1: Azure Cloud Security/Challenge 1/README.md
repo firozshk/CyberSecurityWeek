@@ -14,12 +14,13 @@ In this challenge, you will complete the following:
 ### Exercise : Please make sure the application is accessible from limited IP's and deny all the other IP's using WAF. 
 
 
-**Please follow the below instructions** (Use Runtime as PHP)
-1. Create new App Service in Azure 
+**Please follow the below instructions**
+1. Create new App Service in Azure (Use Runtime as PHP)
 - Name - **Please follow naming guidelines**
 - Operating System - **Linux** 
 - Region - **East US**
 - Zone redundancy - **Disabled**
+- Use Runtime as PHP
 
 Once the App service is deployed, under 'Deployment Center' please select the source 'Github' and use the below mentioned credentials and use the default repo and branch. 
 
