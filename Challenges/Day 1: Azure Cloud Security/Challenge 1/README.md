@@ -28,6 +28,7 @@ Please use the below Github credentials to deploy the App on Azure.
 U/N : srinivas@jumpstartninja.ai
 P/W : Gitninja@123!
 
+If the above github credentials are not working, please fork the repo in your github account and procced with the challenge
 
 **Please have the remaining settings as default**
 
