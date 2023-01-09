@@ -7,12 +7,12 @@ While deploying the resources please follow the naming guidlines below.
    Example names: If an attendee's name is `John Doe` where `John` being the first name and `Doe` being the last name and email as john.doe@accenture.com. 
    Please replace '.' in your username with '-'
 
-- Virtual machine format - `<username>` 
+- App Service Name Format - `<username>` 
 
    **Example - john-doe**
 
 
-- Log Analytics Workspace format - `<username>`
+- Log Analytics Workspace Name Format - `<username>`
 
 
    **Example - john-doe**
