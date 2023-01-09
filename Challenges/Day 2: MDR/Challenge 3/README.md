@@ -1,48 +1,25 @@
-# Azure Sentinel
+# Azure Sentinel Automation 
 # Challenge
+ 
+## Lab scenario
 
-## Lab scenario 
+You have been asked to create a proof of concept of Azure Sentinel Automatio. Specifically, you want to:
 
-You have been asked to create a proof of concept of Azure Sentinel-based threat detection and response. Specifically, you want to:
-
-- Start collecting data from Azure Activity
-- Create a workbook for Azure Activity 
-- Add built in and custom alerts 
+- Add built-in Playbook
+- Review playbooks can be used to automate a response to an incident.
 
 > For all the resources in this lab, we are using the **East US** region. 
 
 ## Lab objectives
 
-In this lab, you will complete the following exercises
+In this lab, you will complete the following exercise:
 
-### Exercise 1: Implement Azure Sentinel
+- Exercise 1: Automate incidents with Playbook
 
 In this exercise, you will complete the following tasks:
+- Task 1: Create a playbook under the automation
+- Task 2: Create a custom alert and configure the playbook as an automated response.
 
-Task 1: On-board Azure Sentinel
-
-Task 2: Connect Azure Activity to Sentinel
-
-Task 3: Create a workbook for Azure Activity 
-
-Task 4: Create a custom analytic rule that uses the Azure Activity data connector. 
-
-
-
-- Task 1: Please follow the below instructions to create a new log analytics workspace. 
-
-      **DO NOT USE ANY EXISTING LOG ANALYTICS WORKSPACE**
-
-   - Workspace Name - Please follow naming guidelines
-
-
-- Task 2: Please follow the below instructions to connect Azure activity via connector (approx-15-20mins to see the results)
-  - Please select the subscription and the respective resource group.
-  - Select the log analytics workspace created during Task 1
-
-- Task 3: Create a workbook for Azure Activity as the Azure activity connector would be connected in the backend.
-
-- Task 4: Create a custom analytic rule 
 
 ## Naming Guidelines
 
@@ -57,6 +34,5 @@ Example names: If an attendees name is `John Doe` where `John` being the First n
       * Log Analytics Workspace format - - `<Firstname-Lastname>-<law>-<number>`  
 	    Example - `john-doe-law-01`
  
-## Expected Outcome
-1. Azure Activity should be successfully conncted to Azure Sentinel
-2. The custom analytic rule created should return valid output 
+
+
