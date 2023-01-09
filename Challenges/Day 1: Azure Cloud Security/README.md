@@ -12,7 +12,7 @@ While deploying the resources please follow the naming guidlines below.
    **Example - john-doe**
 
 
-- Log Analytics Workspace Name Format - `<username>`
+- Frontdoor Name Format - `<username>`
 
 
    **Example - john-doe**
