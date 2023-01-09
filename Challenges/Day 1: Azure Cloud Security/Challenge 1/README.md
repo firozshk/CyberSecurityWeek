@@ -27,9 +27,9 @@ Once the App service is deployed, under 'Deployment Center' please select the so
 Please use the below Github credentials to deploy the App on Azure.
 
 U/N : srinivas@jumpstartninja.ai
-P/W : Gitninja@123! (If these github credentials are not working, please fork the repo in your github account and procced with the challenge)
+P/W : Gitninja@123! (If these github credentials are not working, please fork the below repo in your github account and procced with the challenge)
 
-
+https://github.com/gitninja1/php-docs-hello-world
 
 **Please have the remaining settings as default**
 
