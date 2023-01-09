@@ -29,4 +29,6 @@ Once the App service is deployed, under 'Deployment Center' please select the so
 
 **Please have the remaining settings as default**
 
+Please deploy Frontdoor and complete the challenge
+
 
