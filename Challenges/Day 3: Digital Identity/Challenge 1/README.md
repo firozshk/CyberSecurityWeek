@@ -6,7 +6,10 @@
 
 The specific requirements are:
 - Create a new user in Azure with the naming guideline.
-- Configure an access review of the Global Reader role.
+- Assign the below roles to the newly created user using Privileged Identity Management (PIM)
+	* Global Reader
+	* Security Reader
+	* Assign Global Reader role as Eligible for a period of 30days & Security Reader role as permanent active.
 - Configure an access packages with policies - Entitlement Management 
 
 
