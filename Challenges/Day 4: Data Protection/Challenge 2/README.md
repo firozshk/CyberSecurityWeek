@@ -1,1 +1,8 @@
-# Please check back on Jan 12th 2023 - 2:30 PM IST
+# DLP Policies 
+# Challenge
+ 
+## Lab scenario
+
+You have been asked to create a DLP policy and verify, you need to:
+
+- Creating DLP Policy 
