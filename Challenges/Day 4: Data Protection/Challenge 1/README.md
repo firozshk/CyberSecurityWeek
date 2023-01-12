@@ -6,7 +6,7 @@
  
 ## Lab scenario
 
-You have are asked to create a DLP policy and verify, you need to:
+You have are asked to create a policy and verify, you need to:
 
 - Create and Publish sensitivity label to detect PII Data
 - Create a custom sensitivity label with detects the following pattern - AA00AA0000 (A represetns all alphabet and 0 represets all numbers) 
