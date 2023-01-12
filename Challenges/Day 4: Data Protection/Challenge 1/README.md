@@ -1,7 +1,7 @@
 
 
 
-# DLP Policies 
+# Sensitivty Labels 
 # Challenge
  
 ## Lab scenario
