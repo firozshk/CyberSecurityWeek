@@ -5,7 +5,8 @@
 
 You have been asked to create a DLP policy and verify, you need to:
 
-- Creating DLP Policy for PII 
+- Creating DLP Policy for PII and PCI data
+- Create a custom DLP policy using the custom info type that was created in the challenge 1
 
 ## Naming Guidelines
 
